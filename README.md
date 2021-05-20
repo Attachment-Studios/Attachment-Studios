@@ -2,7 +2,10 @@
 A Studios for All Categories...
 
 ## Our Members
-Attachment Studios is a group of members who Create, Produce, Direct and Make It Better. Officially we are Professional(maybe not but atleast a Little Experienced) People at Coding, Arts, Musics(maybe let's re-think for that?), Literature, Technologies and Development. And surely, for sure we are the Future Creators.
+Attachment Studios is a group of members who Create, Produce, Direct and Make It Better. Officially we are Professional(maybe not but atleast a Little Experienced) People at Coding, Arts, Musics(maybe let's re-think for that?), Literature, Technologies and Development. And surely, for sure we are the Future Creators. Currently Attachment Studios include:
+- Attachment Aditya
+- HistorVical
+- BrianComics(AKA 3301 In AS Discord)
 
 ## Our Works
 - Coding
