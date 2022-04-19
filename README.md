@@ -1,13 +1,13 @@
 # Attachment Studios!
-A Studios for All Categories...
+Creating Apps, Games, Future And More!
 
-## Our Members
-Attachment Studios is a group of members who Create, Produce, Direct and Make It Better. Officially we are Professional(maybe not but atleast a Little Experienced) People at Coding, Arts, Musics(maybe let's re-think for that?), Literature, Technologies and Development. And surely, for sure we are the Future Creators.
-
-## Our Works
+## Topics
 - Coding
 - Arts and Graphics
 - Music
 - Literature
 - Gaming
 - Theory Creations
+
+## GitHub Stats
+[![stats](https://github-readme-stats.vercel.app/api?username=attachment-studios&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attachment-studios.tk)
